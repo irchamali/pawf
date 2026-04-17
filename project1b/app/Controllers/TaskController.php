@@ -13,7 +13,7 @@ class TaskController extends BaseController
         $taskModel = new TaskModel();
         $tasks = $taskModel->orderBy('id', 'DESC')->findAll();
 
-        return view('v_task', [
+        return view('v_task_en', [
         'title' => 'Task List',
         'tasks' => $tasks,
         ]);
