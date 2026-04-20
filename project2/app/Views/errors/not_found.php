@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-
     1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <title>Error 404 CI4</title>
+    <title>404 - Page Not Found</title>
     <style>
         .card {
             position: relative;
@@ -38,7 +38,7 @@
                         Page Could Not Be Found
                     </span>
                     <div class="card-body mx-auto">
-                        <a type="button" href="<?= base_url('/');?>" class="btn btn-info text-white"> Back To Home </a>
+                        <a type="button" href="<?= base_url('/portfolio');?>" class="btn btn-info text-white"> Back to Portfolio </a>
                     </div>
                 </div>
             </div>
