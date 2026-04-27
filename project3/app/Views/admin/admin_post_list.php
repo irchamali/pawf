@@ -31,8 +31,13 @@
                     <li class="nav-item">
                         <a class="nav-link" href="<?= base_url('admin/setting') ?>">Setting</a>
                     </li>
+                    <!-- update nav -->
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('auth/logout') ?>">Logout</a>
+                        <?php if (logged_in()) : ?>
+                            <a class="nav-link" href="<?= base_url('logout') ?>">Logout</a>
+                        <?php else: ?>
+                            <a class="nav-link" href="<?= base_url('login') ?>">Login</a>
+                        <?php endif; ?>
                     </li>
                 </ul>
             </div>
@@ -56,9 +61,9 @@
                 </tr>
             </thead>
             <tbody>
-                <?php foreach($posts as $post): ?>
+                <?php $no = 0; foreach($posts as $post): $no++; ?>
                 <tr>
-                    <td><?= $post['id'] ?></td>
+                    <td><?= $no; ?></td>
                     <td>
                         <strong><?= $post['title'] ?></strong><br>
                         <small class="text-muted"><?= $post['created_at'] ?></small>
