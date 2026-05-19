@@ -1,0 +1,77 @@
+1. Does the title need improvement?*
+ Yes
+ No
+
+2. Does the abstract clearly capture the main research findings?*
+ Very Clear
+ Quite Clear
+ Not Clear
+
+3. Does the highlights section clearly capture the main research findings?*
+ Very Clear
+ Quite Clear
+ Not Clear
+
+4. Are the objectives of the study clearly stated?*
+ Yes, the objectives are clear and well-defined.
+ Somewhat, but they need clarification.
+ No, the objectives are unclear or missing.
+
+5. Are the study methods (including theory, applicability, or models) described in sufficient detail to allow for replication or reproducibility?*
+ Yes, the methods are clearly described and reproducible.
+ Partially, but some aspects lack sufficient detail.
+ No, the methods are not described well enough for replication.
+
+6. Are the statistical analyses, controls, sampling mechanisms, and statistical reporting appropriate and well described?*
+ Yes, they are appropriate and clearly explained.
+ Partially, but some areas need improvement.
+ No, they are not appropriate or sufficiently described.
+ Additional review by a statistician is required.
+
+7. Are the clarity and the number of tables and figures appropriate for the manuscript?*
+ Yes, both are appropriate.
+ Some figures or tables need revision or clarification.
+ Too many or too few figures/tables.
+
+8. Are the interpretations of results and the study conclusions supported by the data and study design?*
+ Yes, the conclusions are supported by the data.
+ Partially supported, some interpretation is overreaching.
+ No, the conclusions are not adequately supported.
+
+9. Does the discussion of generalizability and comparison with other studies need expansion?*
+ No, it is adequate and well-integrated.
+ Some comparison is provided but could be improved.
+ Yes, the discussion lacks depth and context.
+
+10. Have the authors clearly emphasized the strengths of their study in the discussion section?*
+ Yes, the strengths are well highlighted.
+ Some strengths are mentioned but could be better emphasized.
+ No, the strengths are not clearly presented.
+
+11. Have the authors clearly discussed the limitations of their study in the discussion section?*
+ Yes, the limitations are appropriately addressed.
+ Some limitations are mentioned but require elaboration.
+ No, limitations are not adequately discussed.
+
+12. Have the authors clearly emphasized the novelty and/or originality of the study?*
+ Yes, the novelty is well articulated.
+ Partially, needs clearer explanation.
+ No, the originality is not emphasized.
+
+13. Does the literature review need expansion or improvement?*
+ No, it is comprehensive and balanced.
+ Some important references are missing.
+ Yes, it is either insufficient.
+
+14. Is the manuscript structure (e.g., sections and subheadings), text flow, and writing appropriate?*
+ Yes, the structure and writing are appropriate.
+ Partially, some improvements are needed in flow or clarity.
+ No, the structure and writing need significant improvement.
+
+15. If the article reports on code, software, algorithms, or raw data, have you reviewed their accuracy, validity, and FAIRness?*
+ Yes
+ No
+ Not applicable
+
+16. Additional comments to the author(s):
+...
